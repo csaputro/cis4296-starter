@@ -1,0 +1,3 @@
+Hello there, this is Christian Saputro,
+This is just an introductory test of Git assignment
+Thank you, Have a nice day
